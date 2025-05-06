@@ -1,4 +1,4 @@
-# Schema, vecka 20
+# Schema, vecka 22
 ###### Backend med Node.js, vecka 3 av 5
 
 ## Introduktion

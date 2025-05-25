@@ -25,16 +25,30 @@ När du är klar med denna modul kommer du kunna säkra din backend och skapa ty
 
 **Förinspelat** (för distansklassen)
 
+* [01 - Auth : Koncept](https://vimeo.com/818261075/a180ef090a)
+* [02 - Auth : Kodexempel](https://vimeo.com/818261111/5cd320acda)
+
 ### Lektionsrepon
 
+* [26 maj](https://github.com/fu-node-fe24/week-22-lecture-26-maj)
+* [27 maj](https://github.com/fu-node-fe24/week-22-lecture-27-maj)
+* [28 maj](https://github.com/fu-node-fe24/week-22-lecture-28-maj)
 
 ### Filmer
 
 
 ### Länkar
 
+* [Jsonwebtoken documentation](https://www.npmjs.com/package/jsonwebtoken)
+* [Bcrypt documentation](https://www.npmjs.com/package/bcrypt)
+* [Swagger documentation](https://swagger.io/docs/)
 
 ### Övningar 
+
+Denna vecka är tanken att ni fortsätter arbeta med era Todo APIer. Ni skall:
+* Kryptera alla lösenord innan de skickas till databasen
+* Använda jsonwebtoken som Authorizer istället för ```global.user``` från förra veckan
+* Dokumentera ert API med Swagger 
 
 
 

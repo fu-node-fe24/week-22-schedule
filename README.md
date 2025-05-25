@@ -47,7 +47,7 @@ När du är klar med denna modul kommer du kunna säkra din backend och skapa ty
 
 Denna vecka är tanken att ni fortsätter arbeta med era Todo APIer. Ni skall:
 * Kryptera alla lösenord innan de skickas till databasen
-* Använda jsonwebtoken som Authorizer istället för ```global.user``` från förra veckan
+* Använda jsonwebtoken till autentisering och auktorisering istället för ```global.user``` från förra veckan
 * Dokumentera ert API med Swagger 
 
 

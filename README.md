@@ -18,6 +18,7 @@ När du är klar med denna modul kommer du kunna säkra din backend och skapa ty
 
 ### Presentationer
 
+* [Auth](https://docs.google.com/presentation/d/1d9B9Av--V3szkKwaM77oRjcCLCpXQXKu/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelade föreläsningar
 
@@ -50,6 +51,7 @@ Denna vecka är tanken att ni fortsätter arbeta med era Todo APIer. Ni skall:
 * Använda jsonwebtoken till autentisering och auktorisering istället för ```global.user``` från förra veckan
 * Dokumentera ert API med Swagger 
 
+Om ni vill så kan ni ju även passa på att bygga en frontend-app till ert API. Glöm isåfall inte bort att läsa på om [cors](https://www.npmjs.com/package/cors) så att ni kommer åt er server från klienten.
 
 
 

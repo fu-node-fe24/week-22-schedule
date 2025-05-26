@@ -24,6 +24,8 @@ När du är klar med denna modul kommer du kunna säkra din backend och skapa ty
 
 **LIVE**
 
+* [Auth, förmiddag 26 maj](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EaYIV1TuKt9Pkam6AlJTdzMBgF3vvkF1WrjvnOrygOP-YA?e=eFpIte&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 **Förinspelat** (för distansklassen)
 
 * [01 - Auth : Koncept](https://vimeo.com/818261075/a180ef090a)

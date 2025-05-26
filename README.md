@@ -25,6 +25,7 @@ När du är klar med denna modul kommer du kunna säkra din backend och skapa ty
 **LIVE**
 
 * [Auth, förmiddag 26 maj](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EaYIV1TuKt9Pkam6AlJTdzMBgF3vvkF1WrjvnOrygOP-YA?e=eFpIte&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* [Auth fördjupning, eftermiddag 26 maj](https://funet-my.sharepoint.com/:v:/g/personal/jesper_nyberg_folkuniversitetet_se/EYuZ8kzLEzhEuHZNLk6OH4ABJ-p667FN9wdnJNsGAJ-qXQ?e=HQKtPE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Förinspelat** (för distansklassen)
 
